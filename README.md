@@ -12,6 +12,7 @@ Hover effects to highlight images when interacting with them.
 
 Clone the repository to your local machine:
 1. In git bash, Copy code
+   
 ```
 git clone https://github.com/tanishqtiwari45/CSS-Image-Gallery.git
 
